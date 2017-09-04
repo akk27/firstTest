@@ -1,1 +1,2 @@
-1¡¢line one test
+ï»¿1ã€line one test
+2ã€line two test
